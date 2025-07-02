@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Qual Ranks Embeddings",
+      "tensorShape": [
+        33,
+        16
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/files/event_embedding/vecs_qual.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/files/event_embedding/meta_qual.tsv"
+    }
+  ]
+}

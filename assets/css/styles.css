@@ -1,0 +1,66 @@
+/* assets/css/styles.css */
+
+/* Light mode styles */
+body {
+    background-color: #ffffff;
+    color: #000000;
+  }
+  
+  header {
+    background-color: #ffffff; /* Light header background */
+    color: #000000;
+  }
+
+  header nav ul li {
+    color: #000000; /* Light mode text color */
+  }
+  
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #030303; /* Dark background color */
+    color: #dcdcdc; /* Soft white text color */
+  }
+  
+  body.dark-mode header {
+    background-color: #030303; /* Dark header background */
+    color: #dcdcdc;
+  }
+
+  body.dark-mode header nav ul li {
+    color: #dcdcdc; /* Dark mode text color */
+  }
+  
+  /* Additional styles for other elements as needed */
+  a {
+    color: #1a0dab;
+  }
+  
+  body.dark-mode a {
+    color: #bb86fc; /* Soft purple link color */
+  }
+
+/* Style for the dark mode toggle button */
+.theme-toggle {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 24px;
+    color: #000000;
+    z-index: 1000;
+  }
+  
+  body.dark-mode .theme-toggle {
+    color: #e0e0e0;
+  }
+
+  /* Media query for mobile devices */
+@media (max-width: 768px) {
+    .theme-toggle {
+      top: auto;
+      bottom: 10px;
+      right: 10px;
+    }
+  }

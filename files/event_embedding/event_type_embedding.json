@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Event Embeddings",
+      "tensorShape": [
+        13,
+        7
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/files/event_embedding/vecs_event.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nsidn98/nsidn98.github.io/master/files/event_embedding/meta_event.tsv"
+    }
+  ]
+}
