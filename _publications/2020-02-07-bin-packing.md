@@ -1,17 +1,21 @@
 ---
-title: "A Generalized Reinforcement Learning Algorithm for Online 3D Bin-Packing"
+title: "Adaptive Contextual Feature Fusion: Leveraging Human-Robot Interaction with Speech Emotion Recognition"
 collection: publications
 permalink: /publication/packman
-date: 2020-02-07
-venue: 'AAAI Workshops'
+date: 2024-12-24
+venue: 'IEEE 21st India Council International Conference (INDICON)'
 ---
-Authors: Richa Verma, Aniruddha Singhal, Harshad Khadilkar, Ansuma Basumatary, **Siddharth Nayak**, Harsh Vardhan Singh, Swagat Kumar and Rajesh Sinha
+Authors: Sougatamoy Biswas, **Romala Mishra**, Pratik Kumar Sahoo, Anup Nandy
 
-We attempt to solve the online version of the 3D bin-packing problem using reinforcement learning. Our method PackMan, beats heuristical methods in solving the task of filling the containers with boxes without the knowledge of the order of incoming box dimensions. [[PDF]](https://arxiv.org/pdf/2007.00463.pdf), [[slides]](http://nsidn98.github.io/files/Packman_Presentation.pdf)
+Speech Emotion Recognition (SER) is essential in Human-Robot Interaction (HRI) as it empowers robots to detect and react to human emotions. However, existing Speech Emotion Recognition systems face challenges in capturing the full range of emotional expressions due to the complex interaction of various speech features. This research introduces an innovative method utilizing an Adaptive Contextual Feature Fusion (ACFF) technique. Our method employs Adaptive Contextual Feature Fusion to dynamically fuse a hybrid set of features including Mel-scaled spectrogram, Mel-frequency Cepstral Coefficients (MFCCs), Zero-Crossing Rate (ZCR), and Root Mean Square Energy (RMSE) that captures both spectral and temporal characteristics essential for accurate emotion recognition. The Convolutional Neural Network with Long Short-Term Memory (CNN-LSTM) architecture is then employed to learn spatial and temporal dependencies from the adaptively fused features. The proposed approach is evaluated on a publicly available RAVDESS emotional speech dataset. The proposed CNN-LSTM with Adaptive Contextual Feature Fusion and hybrid features achieved 75.45% accuracy and outperforms other state-of-the-art methods. [[Website]](https://ieeexplore.ieee.org/abstract/document/10958516)
+
+
+
+<!-- We attempt to solve the online version of the 3D bin-packing problem using reinforcement learning. Our method PackMan, beats heuristical methods in solving the task of filling the containers with boxes without the knowledge of the order of incoming box dimensions. [[PDF]](https://arxiv.org/pdf/2007.00463.pdf), [[slides]](http://nsidn98.github.io/files/Packman_Presentation.pdf)
 
 Demo of boxes getting placed sequentially in 16 containers where each container is of size 45x80.
 
-![demo](https://media.giphy.com/media/lPGFRxTBxgtao3OI3a/giphy.gif)
+![demo](https://media.giphy.com/media/lPGFRxTBxgtao3OI3a/giphy.gif) -->
 
 <!-- Recommended citation: Your Namesdas, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2). -->
 
