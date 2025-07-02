@@ -1,32 +1,32 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Romala Mishra",
+    "email": "romalamishra10@gmail.com",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://romalamishra.github.io",
+    "summary": "EI'25 at NIT Rourkela",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "",
+      "countryCode": "India",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?hl=en&user=gbEGCdgAAAAJ"
       },
       {
-        "network": "ORCID",
+        "network": "LinkedIn",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": "www.linkedin.com/in/romala-mishra"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "romalamishra",
+        "url": "https://github.com/romalamishra"
       }
     ]
   },
