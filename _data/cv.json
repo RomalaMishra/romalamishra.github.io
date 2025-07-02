@@ -48,32 +48,25 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Towards Single Sand-Dust Image Restoration via Vision Transformer with Multi-Scale Feature Aggregation",
+      "publisher": "IEEE 21st India Council International Conference (INDICON)",
+      "releaseDate": "2024",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10958499",
+      "summary": "Sand-dust images contain suspended dust particles that degrade the image quality in terms of visibility and, illumination leading to hazy images, distorted depth perception, color shifts, and wavelength scattering causing tints in images which impacts various vision based tasks. Many existing Sand-dust restoration techniques struggle to preserve fine details during restoration and face difficulty in varying Sand-dust conditions. To address these challenges, we propose a vision transformer-based framework that employs shifted window attention and depth-wise convolution for efficient local attention computation. It incorporates layer normalization that is revised to enhance stability and is integrated with a multi-scale feature aggregation module that allows the framework to address varying levels of haze by balancing the extraction of global contextual information with the preservation of local details and reducing overhead computation. Overall, our framework is found to not only effectively restore varying Sand-dust conditions as compared to other state-of-the-art frameworks but also address color shifts, color tints, blurred images, distorted depth perception, and restores the fine details of the affected image."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Adaptive Contextual Feature Fusion: Leveraging Human-Robot Interaction with Speech Emotion Recognition",
+      "publisher": "IEEE 21st India Council International Conference (INDICON)",
+      "releaseDate": "2024",
+      "website": "https://ieeexplore.ieee.org/abstract/document/10958516",
+      "summary": "Speech Emotion Recognition (SER) is essential in Human-Robot Interaction (HRI) as it empowers robots to detect and react to human emotions. However, existing Speech Emotion Recognition systems face challenges in capturing the full range of emotional expressions due to the complex interaction of various speech features. This research introduces an innovative method utilizing an Adaptive Contextual Feature Fusion (ACFF) technique. Our method employs Adaptive Contextual Feature Fusion to dynamically fuse a hybrid set of features including Mel-scaled spectrogram, Mel-frequency Cepstral Coefficients (MFCCs), Zero-Crossing Rate (ZCR), and Root Mean Square Energy (RMSE) that captures both spectral and temporal characteristics essential for accurate emotion recognition. The Convolutional Neural Network with Long Short-Term Memory (CNN-LSTM) architecture is then employed to learn spatial and temporal dependencies from the adaptively fused features. The proposed approach is evaluated on a publicly available RAVDESS emotional speech dataset. The proposed CNN-LSTM with Adaptive Contextual Feature Fusion and hybrid features achieved 75.45% accuracy and outperforms other state-of-the-art methods."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Dust to Detail: Restoring Sand-dust Images with Frequency-Guided Attention and Multi-Scale Features",
+      "publisher": "Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR) Workshops",
+      "releaseDate": "2025",
+      "website": "https://openaccess.thecvf.com/content/CVPR2025W/WiCV/html/Mishra_Dust_to_Detail_Restoring_Sand-dust_Images_with_Frequency-Guided_Attention_and_CVPRW_2025_paper.html",
+      "summary": "Images captured during sand-dust weather conditions suffer from severe color distortions, loss of details, and noise, leading to significantly reduced visibility. These degradations disrupt key vision tasks, such as scene surveillance and intelligent transport systems. Existing restoration methods struggle to handle color distortion, recover fine details, limiting their applicability in real-world scenarios. In this paper, we propose a novel encoder-decoder framework that integrates spatial and frequency-based processing to address these challenges. At its core, our Frequency Selection and Weighting (FSW) module adaptively enhances informative frequency components while suppressing degradation-induced noise. We introduce a Multi-Scale and Directional Filter Bank (MSDFB) to distinguish local fine details from global structural patterns, enabling the retrieval of object shapes and textures. Additionally, we incorporate a Multi-Head Self-Attention (MHSA) mechanism on the extracted feature map from the FSW module to focus on the most salient features. Extensive experiments demonstrate that our approach outperforms state-of-the-art methods across both synthetic and real-world datasets, including cross-dataset validation, achieving superior perceptual quality and significantly enhancing object detection performance in the restored images with lesser parameters."
     }
   ],
   "presentations": [
