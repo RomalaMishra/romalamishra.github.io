@@ -87,7 +87,6 @@ dynamic server retrieval using server aliases.
 
 - Computer Vision
 - Deep Learning
-- Machine Learning
 - Autonomous Navigation
 - Object Oriented Programming
 - Data Structures and Algorithms
