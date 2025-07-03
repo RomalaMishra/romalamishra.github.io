@@ -44,10 +44,6 @@ sand-dust for improving object detection and classification performance.
 
 # Skills
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px;">
-
-<div style="flex: 1; min-width: 300px;">
-
 - Programming Languages
   - Python  
   - C, C++  
@@ -68,10 +64,6 @@ sand-dust for improving object detection and classification performance.
   - Raspberry Pi  
   - Arduino Uno  
 
-</div>
-
-<div style="flex: 1; min-width: 300px;">
-
 - Software & Tools
   - MATLAB  
   - Autosys  
@@ -84,8 +76,6 @@ sand-dust for improving object detection and classification performance.
   - PyODBC  
   - Polars  
 
-</div>
-</div>
 
 # Relevant Coursework
 
