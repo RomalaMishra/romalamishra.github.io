@@ -110,4 +110,4 @@ sand-dust for improving object detection and classification performance.
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-For a detailed CV/resume please email me at `sidnayak at mit dot edu`
+For a detailed CV/resume please email me at `romalamishra10@gmail.com`
