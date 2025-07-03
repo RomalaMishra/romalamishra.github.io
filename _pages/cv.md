@@ -11,9 +11,9 @@ redirect_from:
 
 # Education
 
-- B.Tech, Electronics and Instrumentation Engineering, NIT Rourkela, 2025 - 8.65/10.0
-- Class 12 (CBSE), ODM Public School, 2021 - 96.2%
-- Class 10 (ICSE), St. Joesph's High School, 2019 - 98%
+- B.Tech, Electronics and Instrumentation Engineering, NIT Rourkela, 2025 → 8.65/10.0
+- Class 12 (CBSE), ODM Public School, 2021 → 96.2%
+- Class 10 (ICSE), St. Joseph's High School, 2019 → 98%
 
 # Thesis
 
