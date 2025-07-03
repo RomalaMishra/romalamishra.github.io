@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Siddharth's website"
+title: "Welcome to Romala's website"
 excerpt: ""
 author_profile: true
 redirect_from:
@@ -8,27 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the AeroAstro Department at MIT. My research interest lies in multi-agent robotics especially in partially observable settings with limited communication bandwidth. I am also interested in the interpretability of learning-based methods for autonomous navigation. I have combined tools like multi-agent reinforcement learning (MARL), graph neural networks, foundational models, and language models for my research.
+I recently graduated in May 2025 with a B.Tech in Electronics and Instrumentation Engineering from NIT Rourkela, India. My interest lies in the intersection of computer vision, deep learning, and robotics, particularly focused on designing intelligent systems that can perceive and act in challenging, real-world environments. During my undergraduate studies, I worked on problems involving image restoration in adverse conditions, autonomous navigation in dynamic environments, human-robot interaction applying techniques such as Vision Transformers, frequency-guided attention, deep reinforcement learning, etc.
 
-My PhD thesis is on learning-based methods for multi-agent robotics focussing on:
+My Undergraduate thesis was on joint haze and sand-dust image restoration focussing on:
 
-- Scaling MARL in partially observable systems
-- Long-horizon planning for multi-agent robotics
-- Creating human-interpretable communication protocols for MARL methods
+- A Unified Framework for Haze and Sandstorm Restoration
+- Lightweight Architecture for Real-world Applications
+- Robustness for High-level Computer Vision Tasks
+- Domain-Aware Attention for Complex Weather Conditions
 
-**I am currently on the job market for 2025**.
+You can find my publications [here](https://RomalaMishra.github.io/publications/) and the projects I have worked in [here](https://RomalaMishra.github.io/project/).
 
-You can find my publications [here](https://nsidn98.github.io/publications/).
+In addition to my research, I am a trained Hindustani vocalist and enjoy listening to music from a wide range of genres and cultures. I am also into badminton and swimming.
 
-In addition to my research, I like playing musical instruments like guitar, bass, piano, drums, recorder. You can find some of my guitar videos on [instagram](https://www.instagram.com/nsidn98_/).
-I am also into [sketching](https://drive.google.com/drive/folders/1NsuQx0Xl9pQ5V_EsmRd8-qbaLd2zO-Gk), [astrophotography](https://docs.google.com/presentation/d/1IXEQaMT4YNwtfmGf4ktiFaTfVXWCZLqqv2AeThw02LI/edit?usp=sharing), playing tennis, badminton, cricket and swimming.
-
-## Contact Me
+<!-- ## Contact Me
 
 ---
 
-I am glad to discuss research ideas related to robotics, reinforcement learning and anything related to engineering and science! If you have any exciting ideas, please drop me an email.
+I am glad to discuss research ideas related to robotics, reinforcement learning and anything related to engineering and science! If you have any exciting ideas, please drop me an email. -->
 
-<!---
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=150&t=tt&d=vuy8oJHmtOg7LUHtjdY1k-B5CjSIsQ-mzVNm9KPAL0M&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9"></script>
--->

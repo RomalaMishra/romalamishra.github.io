@@ -11,123 +11,101 @@ redirect_from:
 
 # Education
 
-- PhD, Aeronautics and Astronautics, MIT, (Expected 2025)
-- SM, Aeronautics and Astronautics, MIT, 2022
-- B.Tech, Electrical Engineering, IIT Madras, 2020
+- B.Tech, Electronics and Instrumentation Engineering, NIT Rourkela, 2025
+- Senior Secondary Education, ODM Public School, CBSE, 2021
+- Secondary Education, St. Joesph's High School, ICSE, 2019
 
-# Theses
+# Thesis
 
-- Learning-based Scheduling
-  - S.M. Thesis, Massachusetts Institute of Technology, 2022
-  - Advisor: Prof. Hamsa Balakrishnan
-- Reinforcement Learning for Improving Object Detection
-  - Undergraduate Thesis, Indian Institute of Technology Madras, 2020
-  - Advisor: Prof. Balaraman Ravindran
+- Joint Haze and Sand-dust Image Restoration for Effective Object Detection and Classification
+  - Undergraduate Thesis, National Institute of Technology Rourkela, 2025
+  - Advisor: Dr. Sobhan Kanti Dhara
 
 # Work experience
 
-- DINaMo Lab, MIT, Graduate Research Assistant - Fall 2020-Present
+- Perception and Recognition via Imaging and Sensing using Modern-AI (PRISM) Research Group, NIT Rourkela, 2024-2025: Undergraduate Research Assistant
 
-  - Advisor: [Prof. Hamsa Balakrishnan](https://www.mit.edu/~hamsa/index.html)
-    - Developed and deployed a language model-based architecture for multi-agent embodied robotic tasks resulting in 30% improvement in task completion.
-    - Designed a graph neural network-based architecture for scaling multi-agent reinforcement learning algorithms in limited-information scenarios resulting in 1.9× improvement in success rates.
-    - Exploring LLMs for creating interpretable communication protocols for multi-agent reinforcement learning.
-    - Developed a hybrid solution combining reinforcement learning (RL) and integer programming to optimize crew schedules, achieving 33% - 48% fewer disruptions compared to the baseline formulation.
+  - Advisor: [Dr. Sobhan Kanti Dhara](https://nitrkl.ac.in/FacultyStaff/FacultyProfile/dharask)
+    - Developed an encoder-decoder based framework to restore image degradations caused by haze and
+sand-dust for improving object detection and classification performance.
+    - Incorporated selective attention mechanisms to emphasize relevant features while reducing computation.
 
-- MERL, Cambridge, MA, Research Scientist Intern, Summer 2024
+- Machine Intelligence and Bio-motion Lab, NIT Rourkela, 2024: Undergraduate Research Assistant
+  - Advisor: [Dr. Anup Nandy](https://nitrkl.ac.in/FacultyStaff/FacultyProfile/nandya)
+    - Implemented a DRL-based navigation pipeline using the TD3 algorithm and laser scan inputs to enable decision-making in dynamic environments, and deployed it on an NVIDIA Jetson Nano, balancing inference speed with performance constraints.
+    - Developed a SLAM-based indoor navigation and exploration framework, focusing on static environments using LiDAR data and spatial mapping techniques.
+    - Designed a transformer-based architecture for speech emotion recognition, combining acoustic features (pitch, tone) with transcript-based textual cues to support emotionally aware human-robot communication in multimodal settings. 
 
-  - Advisor: [Dr. Anoop Cherian](https://users.cecs.anu.edu.au/~cherian/)
-    - Developed a multimodal language model for aligning visual, aural, and language modalities for autonomous navigation in embodied robotic environments leading to 21% improvement in prediction accuracy of navigation actions.
-    - Implemented a data-distributed parallel RL model to train a conversational embodied robotic agent to include inputs from the trained multimodal language model.
+- Computer Vision Lab, IIT Kharagpur, Summer 2023: Research Intern
+  - Advisor: [Prof. Aurobindo Routray](https://iitkgp.ac.in/department/EE/faculty/ee-aroutray)
+    - Developed a hybrid CNN–Transformer model for robust face detection and recognition in video sequences, with a focus on handling motion blur and partial occlusion.
 
-- MERL, Cambridge, MA, Research Scientist Intern, Summer 2023
 
-  - Advisor: [Dr. Abraham Vinod](https://abyvinod.github.io/)
-    - Developed a data-driven bi-level approach incorporating multi-armed bandits and integer programming to enhance multi-agent environmental monitoring strategies
-    - Devised a real-time implementable graph-based heuristic planner, significantly improving solution speed
-    - Obtained anytime guarantees and upper bounds on computing time as well as task completion time
-
-- TCS Research and Innovation Lab, Mumbai, India, Research Intern, Summer 2019
-
-  - Advisor: [Dr. Harshad Khadilkar](https://sites.google.com/view/harshad/home)
-    - Co-developed a heuristic + reinforcement learning-based method for the online version of 3D-bin packing problem to improve the packing efficiency by 3% over heuristic-based methods along with speeding up prediction by a factor of 6.
-    - Experimented with a behavioural cloning + heuristics model to achieve 85% average packing efficiency
-
-- RISE Lab, IIT Madras, UnderFall 2018-2019: Undergraduate Research Assistant
-
-  - Advisor: [Prof. Balaraman Ravindran](https://www.cse.iitm.ac.in/~ravi/)
-    - Utilized RL to enhance digital transformations on images, optimizing object detection performance in a pre-trained network.
-    - Applied graph neural networks for molecule property prediction, achieving a notable ROC-AUC of $0.807$ on the Pseudomonas dataset. Ranked 13th globally in the MIT AI Cures Challenge. [Leaderboard](https://www.aicures.mit.edu/tasks)
-
-- Daimler AG R&D, Sindelfingen, Germany, Research Intern, Summer 2018
-  - Advisor: [Dr. Hannes Gorniaczyk](https://de.linkedin.com/in/gorniaczyk)
-    - Analyzed the impact of on-board vehicle camera parameters, including _Shutter Speed_ and _Voltage Gains_, on the performance of pre-trained object detection neural networks.
-    - Developed a performance matrix to identify the optimal combination of shutter speed and voltage gain, maximizing the F1-score for a pre-trained object detection network.
 
 # Skills
 
-- Multi-Agent Reinforcement Learning
-- Graph Learning
-- Foundational Models
-- Distributed Parallel Computing
-- Slurm
-- Python
-  - PyTorch
-  - TensorFlow
-- C, C++
-- ROS (Robot Operating Software)
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 40px;">
+
+<div style="flex: 1; min-width: 300px;">
+
+### Programming Languages
+- Python  
+- C, C++  
+- SQL  
+
+### Operating Systems
+- Windows  
+- Linux  
+
+### Robotics Platforms & Simulation
+- ROS (Robot Operating System)  
+- Gazebo  
+- Rviz  
+- Webots  
+
+### Hardware & Embedded Systems
+- NVIDIA Jetson Nano  
+- Raspberry Pi  
+- Arduino Uno  
+
+</div>
+
+<div style="flex: 1; min-width: 300px;">
+
+### Software & Tools
+- MATLAB  
+- Autosys  
+- SSIS  
+
+### Tech Stack
+- OpenCV  
+- TensorFlow  
+- PyTorch  
+- PyODBC  
+- Polars  
+
+</div>
+</div>
+
+# Relevant Coursework
+
+- Computer Vision
+- Deep Learning
+- Machine Learning
+- Autonomous Navigation
+- Object Oriented Programming
+- Data Structures and Algorithms
+- Digital Image Processing
+- Machine Intelligence
+- Probability and Statistics
 
 # Talks
 
-- NASA ULI Safe Aviation Autonomy Seminar. "Scalable Multi-Agent Reinforcement Learning through Intelligent Information Aggregation"
-- Tata Consultancy Services Research and Innovation Labs. --"--
+- NIT Rourkela Institute Seminar on "Towards Single Sand-Dust Image Restoration via Vision Transformer with Multi-Scale Feature Aggregation".
 
-# Service
+# Conference Reviewing
 
-## Conference Reviewing
-
-- AAAI (2021, 2024)
-- CVPR (2024)
-- IROS (2024)
-- IFAC (2024)
-- NeurIPS (2024)
-- ICLR (2024)
-- ACL (2024)
-
-## Journal Reviewing
-
-- IEEE Transactions on Circuits and Systems for Video Technology (2023)
-- Complex & Intelligent Systems (CIS)
-- Information Science (IS)
-- IEEE Robotics and Automation Letters (RAL)
-- Journal of Guidance, Control, and Dynamics (JDCD)
-
-## Workshop Reviewing
-
-- [The 4th Workshop on Mathematical Reasoning and AI](https://mathai2024.github.io/) @NeurIPS (2024)
-- [NeurIPS 2024 Workshop on Multimodal Algorithmic Reasoning](https://marworkshop.github.io/neurips24/) @NeurIPS (2024)
-- [Robotic Tasks and How to Specify Them?](https://sites.google.com/view/rss-taskspec) @RSS (2024)
-
-# Workshop Organisation
-
-- [Coordination and Cooperation in Multi-Agent Reinforcement Learning](https://sites.google.com/view/cocomarl-2024/home) (CoCoMARL) @RLC 2024
-
-# Mentoring
-
-A list of UROPs+MEngs I have mentored:
-
-- Wenqi Ding (EECS, S.B., MIT) 2022, 2024
-- Vittal Thirumalai (EECS, S.B.+ M.Eng.), 2024
-- Jackson Zhang (EECS, S.B.+ M.Eng.), 2024
-- Adelmo Morrison Orozco (EECS + Math, S.B.) 2024
-- Marina Ten Have (EECS + AI, S.B.) 2024
-- Darren Chen (EECS, S.B.) 2024
-- Daniel Liu (EECS, M.Eng.) 2021-2022
-- Kenneth Choi (EECS, S.B.) 2022
-- Carson Smith (EECS, M.Eng) 2021
-- Laura Peralta (Electrical and Electronics, B.E.; Hampton University) 2021
-- Akila Sarvanan (AeroAstro, S.B.; MIT) 2021
-- Simran Pabla (AeroAstro, M.Eng.; MIT) 2021
+- INDISCON (2025)
 
 # Honors and Awards
 
@@ -136,17 +114,7 @@ A list of UROPs+MEngs I have mentored:
 - HULT Prize: Chennai Regional WInner and Singapore Regional Finalist (2017-2018)
 - Ranked among the top 1% in the National Standard Examination in Physics (Physics Olympiad) (2016)
 
-# Relevant Coursework
 
-- Visual Navigation for Autonomous Vehicles
-- Multiagent Communication
-- Computational Sensorimotor Learning
-- Intelligent Robotic Manipulation
-- Underactuated Robotics
-- Principles of Autonomy and Decision Making
-- Reinforcement Learning
-- Advanced Topics in Artificial Intelligence
-- Parallel Computing and Scientific Machine Learning
 
 # Publications
 
