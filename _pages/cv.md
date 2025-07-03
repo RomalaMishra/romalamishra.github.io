@@ -48,41 +48,41 @@ sand-dust for improving object detection and classification performance.
 
 <div style="flex: 1; min-width: 300px;">
 
-### Programming Languages
-- Python  
-- C, C++  
-- SQL  
+- Programming Languages
+  - Python  
+  - C, C++  
+  - SQL  
 
-### Operating Systems
-- Windows  
-- Linux  
+- Operating Systems
+  - Windows  
+  - Linux  
 
-### Robotics Platforms & Simulation
-- ROS (Robot Operating System)  
-- Gazebo  
-- Rviz  
-- Webots  
+- Robotics Platforms & Simulation
+  - ROS (Robot Operating System)  
+  - Gazebo  
+  - Rviz  
+  - Webots  
 
-### Hardware & Embedded Systems
-- NVIDIA Jetson Nano  
-- Raspberry Pi  
-- Arduino Uno  
+- Hardware & Embedded Systems
+  - NVIDIA Jetson Nano  
+  - Raspberry Pi  
+  - Arduino Uno  
 
 </div>
 
 <div style="flex: 1; min-width: 300px;">
 
-### Software & Tools
-- MATLAB  
-- Autosys  
-- SSIS  
+- Software & Tools
+  - MATLAB  
+  - Autosys  
+  - SSIS  
 
-### Tech Stack
-- OpenCV  
-- TensorFlow  
-- PyTorch  
-- PyODBC  
-- Polars  
+- Tech Stack
+  - OpenCV  
+  - TensorFlow  
+  - PyTorch  
+  - PyODBC  
+  - Polars  
 
 </div>
 </div>
@@ -109,12 +109,10 @@ sand-dust for improving object detection and classification performance.
 
 # Honors and Awards
 
-- R&D 100 Awards - Software and Services Category (2023)
-- USAF Analytics Excellence Award for the Space Training and Readiness Command (STARCOM) (2022)
-- HULT Prize: Chennai Regional WInner and Singapore Regional Finalist (2017-2018)
-- Ranked among the top 1% in the National Standard Examination in Physics (Physics Olympiad) (2016)
-
-
+- Best UG Project Finalist, NIT Rourkela (2025)
+- Special Recognition at ICORT, DRDO (2025)
+- Semi-finalist at eYantra Robotics Challenge, IIT Bombay (2023)
+- Second Runners-up at Voyager Competition, IIT Kharagpur (2023)
 
 # Publications
 

@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently graduated in May 2025 with a B.Tech in Electronics and Instrumentation Engineering from NIT Rourkela, India. My interest lies in the intersection of computer vision, deep learning, and robotics, particularly focused on designing intelligent systems that can perceive and act in challenging, real-world environments. During my undergraduate studies, I worked on problems involving image restoration in adverse conditions, autonomous navigation in dynamic environments, human-robot interaction applying techniques such as Vision Transformers, frequency-guided attention, deep reinforcement learning, etc.
+I recently graduated in May 2025 with a B.Tech in Electronics and Instrumentation Engineering from NIT Rourkela, India. My interest lies in the intersection of computer vision, deep learning, and robotics, particularly focused on designing intelligent systems that can perceive and act in challenging, real-world environments. 
+
+During my undergraduate studies, I worked on problems involving image restoration in adverse conditions, autonomous navigation in dynamic environments, human-robot interaction applying techniques such as Vision Transformers, frequency-guided attention, deep reinforcement learning, etc.
 
 My Undergraduate thesis was on joint haze and sand-dust image restoration focussing on:
 
@@ -17,7 +19,7 @@ My Undergraduate thesis was on joint haze and sand-dust image restoration focuss
 - Robustness for High-level Computer Vision Tasks
 - Domain-Aware Attention for Complex Weather Conditions
 
-You can find my publications [here](https://RomalaMishra.github.io/publications/) and the projects I have worked in [here](https://RomalaMishra.github.io/project/).
+You can find my publications [here](https://RomalaMishra.github.io/publications/) and my projects [here](https://RomalaMishra.github.io/project/).
 
 In addition to my research, I am a trained Hindustani vocalist and enjoy listening to music from a wide range of genres and cultures. I am also into badminton and swimming.
 
