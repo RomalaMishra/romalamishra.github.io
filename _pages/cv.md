@@ -11,9 +11,9 @@ redirect_from:
 
 # Education
 
-- B.Tech, Electronics and Instrumentation Engineering, NIT Rourkela, 2025
-- Senior Secondary Education, ODM Public School, CBSE, 2021
-- Secondary Education, St. Joesph's High School, ICSE, 2019
+- B.Tech, Electronics and Instrumentation Engineering, NIT Rourkela, 2025 - 8.65/10.0
+- Class 12 (CBSE), ODM Public School, 2021 - 96.2%
+- Class 10 (ICSE), St. Joesph's High School, 2019 - 98%
 
 # Thesis
 
@@ -35,6 +35,12 @@ sand-dust for improving object detection and classification performance.
     - Implemented a DRL-based navigation pipeline using the TD3 algorithm and laser scan inputs to enable decision-making in dynamic environments, and deployed it on an NVIDIA Jetson Nano, balancing inference speed with performance constraints.
     - Developed a SLAM-based indoor navigation and exploration framework, focusing on static environments using LiDAR data and spatial mapping techniques.
     - Designed a transformer-based architecture for speech emotion recognition, combining acoustic features (pitch, tone) with transcript-based textual cues to support emotionally aware human-robot communication in multimodal settings. 
+
+- Barclays, Summer 2024: Global Security Developer Intern
+  - Manager: [Atul Mishra](https://www.linkedin.com/in/atul-mishra-9b06a42/)
+    - Enhanced system efficiency by reducing synchronization time by a factor of 8 through parallel processing and
+dynamic server retrieval using server aliases.
+    - Automated job scheduling with Autosys integration, eliminating manual intervention and improving reliability.
 
 - Computer Vision Lab, IIT Kharagpur, Summer 2023: Research Intern
   - Advisor: [Prof. Aurobindo Routray](https://iitkgp.ac.in/department/EE/faculty/ee-aroutray)
