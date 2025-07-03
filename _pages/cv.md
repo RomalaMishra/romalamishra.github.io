@@ -73,7 +73,7 @@ sand-dust for improving object detection and classification performance.
   - OpenCV  
   - TensorFlow  
   - PyTorch  
-  - PyODBC  
+  - Pyodbc  
   - Polars  
 
 
