@@ -73,6 +73,13 @@ dynamic server retrieval using server aliases.
   <li>Rviz</li>
   <li>Webots</li>
 </ul>
+
+<h3>Software & Tools</h3>
+<ul>
+  <li>MATLAB</li>
+  <li>Autosys</li>
+  <li>SSIS</li>
+</ul>
 </div>
 
 <div style="flex: 1; min-width: 300px;">
@@ -93,14 +100,7 @@ dynamic server retrieval using server aliases.
   <li>Arduino Uno</li>
 </ul>
 
-<h3>Software & Tools</h3>
-<ul>
-  <li>MATLAB</li>
-  <li>Autosys</li>
-  <li>SSIS</li>
-</ul>
 </div>
-
 </div>   
 
 # Relevant Coursework
