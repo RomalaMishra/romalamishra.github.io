@@ -125,6 +125,7 @@ dynamic server retrieval using server aliases.
 # Honors and Awards
 
 - Best UG Project Finalist, NIT Rourkela (2025)
+- CVPR Travel grant (2025)
 - Special Recognition at ICORT, DRDO (2025)
 - Semi-finalist at eYantra Robotics Challenge, IIT Bombay (2023)
 - Second Runners-up at Voyager Competition, IIT Kharagpur (2023)
