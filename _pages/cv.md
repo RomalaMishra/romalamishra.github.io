@@ -50,38 +50,58 @@ dynamic server retrieval using server aliases.
 
 # Skills
 
-- Programming Languages
-  - Python  
-  - C, C++  
-  - SQL  
+<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
 
-- Operating Systems
-  - Windows  
-  - Linux  
+<div style="flex: 1; min-width: 300px;">
+<h3>Programming Languages</h3>
+<ul>
+  <li>Python</li>
+  <li>C, C++</li>
+  <li>SQL</li>
+</ul>
 
-- Robotics Platforms & Simulation
-  - ROS (Robot Operating System)  
-  - Gazebo  
-  - Rviz  
-  - Webots  
+<h3>Operating Systems</h3>
+<ul>
+  <li>Windows</li>
+  <li>Linux</li>
+</ul>
 
-- Hardware & Embedded Systems
-  - NVIDIA Jetson Nano  
-  - Raspberry Pi  
-  - Arduino Uno  
+<h3>Robotics Platforms & Simulation</h3>
+<ul>
+  <li>ROS (Robot Operating System)</li>
+  <li>Gazebo</li>
+  <li>Rviz</li>
+  <li>Webots</li>
+</ul>
+</div>
 
-- Software & Tools
-  - MATLAB  
-  - Autosys  
-  - SSIS  
+<div style="flex: 1; min-width: 300px;">
+<h3>Tech Stack</h3>
+<ul>
+  <li>OpenCV</li>
+  <li>MediaPipe</li>
+  <li>TensorFlow</li>
+  <li>PyTorch</li>
+  <li>PyODBC</li>
+  <li>Polars</li>
+</ul>
 
-- Tech Stack
-  - OpenCV  
-  - TensorFlow  
-  - PyTorch  
-  - Pyodbc  
-  - Polars  
+<h3>Hardware & Embedded Systems</h3>
+<ul>
+  <li>NVIDIA Jetson Nano</li>
+  <li>Raspberry Pi</li>
+  <li>Arduino Uno</li>
+</ul>
 
+<h3>Software & Tools</h3>
+<ul>
+  <li>MATLAB</li>
+  <li>Autosys</li>
+  <li>SSIS</li>
+</ul>
+</div>
+
+</div>   
 
 # Relevant Coursework
 
