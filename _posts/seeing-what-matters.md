@@ -15,7 +15,7 @@ Seeing what matters: A Selective Attention mechanism for Image Restoration
 
 👉 [Read it on Medium][![Romalamishra](https://miro.medium.com/v2/da:true/resize:fill:64:64/0*6Nrj4E_ZI7wNyR1-)
 
-][Romalamishra](https://medium.com/@romalamishra10)
+][Romalamishra](https://medium.com/@romalamishra10?source=post_page---byline--3d098b7ada8e---------------------------------------)
 
 6 min read
 
