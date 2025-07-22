@@ -118,9 +118,14 @@ dynamic server retrieval using server aliases.
 
 - NIT Rourkela Institute Seminar on "Towards Single Sand-Dust Image Restoration via Vision Transformer with Multi-Scale Feature Aggregation".
 
+# Journal Reviewing
+
+- Circuits, Systems & Signal Processing - 2025
+
 # Conference Reviewing
 
-- INDISCON (2025)
+- 6th IEEE India Council International Subsections Conference - 2025
+- 4th International Conference on Computer Vision and Machine Intelligence - 2025
 
 # Honors and Awards
 
